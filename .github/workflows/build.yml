@@ -37,3 +37,5 @@ mvn clean test
 # Run Maven build
 - name: Run Maven build
   run: mvn clean test
+
+assertEquals(2, c.subtract(4,2))
